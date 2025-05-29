@@ -1,6 +1,6 @@
 name: "Welcome github action workflow"
 on:
-  pull_request:
+  push:
     branches: welcome-workflow
   
 jobs:
