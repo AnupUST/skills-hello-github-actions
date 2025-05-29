@@ -1,7 +1,7 @@
 name: "Welcome github action workflow"
 on:
   pull_request:
-    branches: main
+    branches: welcome-workflow
   
 jobs:
   build:
